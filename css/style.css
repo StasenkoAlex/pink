@@ -2116,10 +2116,10 @@ input[type="submit"]:disabled {
     border-radius: 0 2px 2px 0;
   }
   .contact__item label[for="tel"]::after {
-    background-image: url(/img/phone.svg);
+    background-image: url(../img/phone.svg);
   }
   .contact__item label[for="email"]::after {
-    background-image: url(/img/mail.svg);
+    background-image: url(../img/mail.svg);
   }
   .fieldset-info--application {
     order: 1;
